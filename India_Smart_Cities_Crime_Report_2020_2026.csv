@@ -1,0 +1,701 @@
+﻿Crime_ID,Date,Year,City,State,Crime_Category,Crime_Type,Severity,Cases_Reported,Case_Status
+CR00001,2025-07-18,2025,Srinagar,J&K,Property,Theft,High,68,Chargesheet Filed
+CR00002,2020-03-01,2020,Ahmedabad,Gujarat,Cyber,Phishing,High,37,Open
+CR00003,2022-03-02,2022,Guwahati,Assam,Traffic,Hit and Run,Low,183,Under Investigation
+CR00004,2022-07-28,2022,Kanpur,Uttar Pradesh,Violent,Robbery,High,482,Under Investigation
+CR00005,2020-08-22,2020,Gurugram,Haryana,Property,Burglary,Low,425,Under Investigation
+CR00006,2022-08-13,2022,Ludhiana,Punjab,Violent,Robbery,High,460,Closed
+CR00007,2023-06-07,2023,Lucknow,Uttar Pradesh,Violent,Assault,High,493,Chargesheet Filed
+CR00008,2024-02-27,2024,Jaipur,Rajasthan,Cyber,UPI Fraud,Low,390,Chargesheet Filed
+CR00009,2020-04-01,2020,Udaipur,Rajasthan,Property,Burglary,Low,430,Closed
+CR00010,2022-10-26,2022,Surat,Gujarat,Violent,Robbery,Medium,185,Chargesheet Filed
+CR00011,2026-03-24,2026,Ludhiana,Punjab,Women,Harassment,Medium,378,Closed
+CR00012,2024-07-11,2024,Siliguri,West Bengal,Traffic,Hit and Run,Low,418,Under Investigation
+CR00013,2021-03-09,2021,Dehradun,Uttarakhand,Traffic,Drunk Driving,Medium,306,Chargesheet Filed
+CR00014,2023-08-03,2023,Dhanbad,Jharkhand,Cyber,Phishing,High,280,Open
+CR00015,2023-06-02,2023,Hyderabad,Telangana,Women,Harassment,Low,305,Closed
+CR00016,2025-08-28,2025,Jabalpur,Madhya Pradesh,Violent,Assault,Low,187,Under Investigation
+CR00017,2020-02-03,2020,Noida,Uttar Pradesh,Violent,Assault,Low,216,Open
+CR00018,2025-01-23,2025,Coimbatore,Tamil Nadu,Property,Theft,Low,442,Open
+CR00019,2025-07-27,2025,Raipur,Chhattisgarh,Violent,Assault,Low,101,Closed
+CR00020,2024-12-21,2024,Srinagar,J&K,Traffic,Drunk Driving,Medium,311,Under Investigation
+CR00021,2024-04-21,2024,Shimla,Himachal Pradesh,Women,Stalking,High,345,Chargesheet Filed
+CR00022,2020-11-19,2020,Tiruchirappalli,Tamil Nadu,Violent,Robbery,Low,474,Open
+CR00023,2025-02-11,2025,Guntur,Andhra Pradesh,Cyber,UPI Fraud,High,28,Open
+CR00024,2022-09-06,2022,Ludhiana,Punjab,Women,Stalking,High,221,Open
+CR00025,2025-12-18,2025,Siliguri,West Bengal,Violent,Assault,High,432,Open
+CR00026,2023-04-13,2023,Kanpur,Uttar Pradesh,Violent,Assault,High,198,Chargesheet Filed
+CR00027,2023-05-05,2023,Srinagar,J&K,Violent,Robbery,High,320,Chargesheet Filed
+CR00028,2021-01-20,2021,Noida,Uttar Pradesh,Traffic,Drunk Driving,Low,303,Closed
+CR00029,2023-01-22,2023,Thiruvananthapuram,Kerala,Violent,Assault,High,344,Open
+CR00030,2023-06-01,2023,Tiruchirappalli,Tamil Nadu,Traffic,Drunk Driving,High,15,Closed
+CR00031,2022-01-25,2022,Vijayawada,Andhra Pradesh,Traffic,Drunk Driving,Medium,412,Closed
+CR00032,2021-12-10,2021,Shimla,Himachal Pradesh,Traffic,Drunk Driving,High,487,Under Investigation
+CR00033,2020-04-22,2020,Mumbai,Maharashtra,Property,Theft,Medium,23,Open
+CR00034,2026-11-20,2026,Nashik,Maharashtra,Traffic,Hit and Run,Medium,499,Closed
+CR00035,2026-03-02,2026,Gurugram,Haryana,Cyber,UPI Fraud,High,150,Open
+CR00036,2026-07-06,2026,Noida,Uttar Pradesh,Violent,Assault,High,341,Open
+CR00037,2020-01-19,2020,Aurangabad,Maharashtra,Violent,Robbery,Low,322,Under Investigation
+CR00038,2021-08-01,2021,Tiruchirappalli,Tamil Nadu,Women,Harassment,Medium,89,Chargesheet Filed
+CR00039,2024-04-24,2024,Jammu,J&K,Property,Burglary,High,132,Chargesheet Filed
+CR00040,2020-11-26,2020,Agra,Uttar Pradesh,Women,Stalking,Low,403,Chargesheet Filed
+CR00041,2023-10-21,2023,Shimla,Himachal Pradesh,Cyber,Phishing,High,22,Open
+CR00042,2020-01-30,2020,Varanasi,Uttar Pradesh,Violent,Robbery,Medium,66,Open
+CR00043,2024-06-23,2024,Raipur,Chhattisgarh,Cyber,Phishing,Medium,438,Open
+CR00044,2021-11-06,2021,Lucknow,Uttar Pradesh,Violent,Robbery,High,50,Closed
+CR00045,2022-07-29,2022,Nashik,Maharashtra,Property,Burglary,Medium,143,Closed
+CR00046,2020-04-08,2020,Mysuru,Karnataka,Women,Stalking,Low,454,Under Investigation
+CR00047,2024-11-24,2024,Jodhpur,Rajasthan,Traffic,Hit and Run,Low,308,Closed
+CR00048,2020-06-27,2020,Coimbatore,Tamil Nadu,Cyber,Phishing,Medium,210,Closed
+CR00049,2023-12-30,2023,Indore,Madhya Pradesh,Property,Theft,Medium,332,Open
+CR00050,2022-11-21,2022,Ranchi,Jharkhand,Property,Theft,Low,207,Under Investigation
+CR00051,2024-04-14,2024,Kochi,Kerala,Women,Harassment,High,178,Under Investigation
+CR00052,2022-03-31,2022,Vijayawada,Andhra Pradesh,Women,Stalking,Low,177,Open
+CR00053,2020-08-30,2020,Bengaluru,Karnataka,Traffic,Hit and Run,Medium,202,Closed
+CR00054,2026-08-18,2026,Raipur,Chhattisgarh,Cyber,UPI Fraud,Medium,168,Open
+CR00055,2023-10-02,2023,Raipur,Chhattisgarh,Violent,Assault,Low,171,Closed
+CR00056,2021-12-25,2021,Patna,Bihar,Traffic,Drunk Driving,High,143,Under Investigation
+CR00057,2026-05-11,2026,Panaji,Goa,Cyber,UPI Fraud,Low,493,Under Investigation
+CR00058,2022-02-22,2022,Kolkata,West Bengal,Traffic,Drunk Driving,High,71,Under Investigation
+CR00059,2026-02-18,2026,Nashik,Maharashtra,Traffic,Hit and Run,Medium,181,Under Investigation
+CR00060,2026-07-08,2026,Chennai,Tamil Nadu,Property,Theft,High,450,Open
+CR00061,2024-01-04,2024,Kolkata,West Bengal,Women,Harassment,Medium,247,Under Investigation
+CR00062,2020-09-04,2020,Vijayawada,Andhra Pradesh,Property,Theft,Low,424,Under Investigation
+CR00063,2023-07-17,2023,Surat,Gujarat,Property,Theft,Medium,302,Chargesheet Filed
+CR00064,2020-01-26,2020,Udaipur,Rajasthan,Violent,Robbery,Low,463,Chargesheet Filed
+CR00065,2022-06-12,2022,Madurai,Tamil Nadu,Property,Burglary,High,160,Chargesheet Filed
+CR00066,2021-06-17,2021,Visakhapatnam,Andhra Pradesh,Violent,Assault,Medium,145,Chargesheet Filed
+CR00067,2022-11-10,2022,Siliguri,West Bengal,Violent,Assault,Low,19,Chargesheet Filed
+CR00068,2024-10-06,2024,Vijayawada,Andhra Pradesh,Violent,Robbery,Low,281,Open
+CR00069,2025-05-08,2025,Thiruvananthapuram,Kerala,Traffic,Hit and Run,High,24,Open
+CR00070,2022-09-11,2022,Kanpur,Uttar Pradesh,Traffic,Drunk Driving,Medium,453,Under Investigation
+CR00071,2024-04-16,2024,Guwahati,Assam,Violent,Assault,Medium,457,Open
+CR00072,2024-01-14,2024,Lucknow,Uttar Pradesh,Property,Burglary,Low,368,Under Investigation
+CR00073,2024-10-16,2024,Patna,Bihar,Women,Stalking,Medium,320,Chargesheet Filed
+CR00074,2022-06-22,2022,Surat,Gujarat,Women,Harassment,Medium,330,Open
+CR00075,2021-09-17,2021,Chennai,Tamil Nadu,Violent,Assault,Low,251,Chargesheet Filed
+CR00076,2025-02-21,2025,Bhubaneswar,Odisha,Cyber,Phishing,Medium,375,Open
+CR00077,2022-07-24,2022,Guwahati,Assam,Women,Stalking,Medium,165,Chargesheet Filed
+CR00078,2020-02-13,2020,Kochi,Kerala,Violent,Assault,Low,275,Chargesheet Filed
+CR00079,2023-04-23,2023,Gurugram,Haryana,Cyber,Phishing,High,283,Open
+CR00080,2024-08-31,2024,Varanasi,Uttar Pradesh,Cyber,Phishing,Low,264,Open
+CR00081,2026-06-18,2026,Dehradun,Uttarakhand,Traffic,Hit and Run,Low,438,Closed
+CR00082,2023-10-29,2023,Kochi,Kerala,Women,Harassment,Medium,325,Open
+CR00083,2025-09-17,2025,Guwahati,Assam,Women,Harassment,Low,466,Closed
+CR00084,2020-04-09,2020,Mysuru,Karnataka,Property,Burglary,High,185,Closed
+CR00085,2020-04-27,2020,Srinagar,J&K,Traffic,Drunk Driving,High,236,Open
+CR00086,2021-02-11,2021,Indore,Madhya Pradesh,Property,Burglary,High,397,Closed
+CR00087,2026-06-12,2026,Vijayawada,Andhra Pradesh,Cyber,UPI Fraud,Low,486,Chargesheet Filed
+CR00088,2022-09-12,2022,Kochi,Kerala,Property,Burglary,Medium,17,Closed
+CR00089,2025-02-15,2025,Surat,Gujarat,Traffic,Drunk Driving,Medium,143,Under Investigation
+CR00090,2023-05-20,2023,Jaipur,Rajasthan,Violent,Robbery,Medium,247,Chargesheet Filed
+CR00091,2024-07-03,2024,Panaji,Goa,Cyber,UPI Fraud,Low,438,Under Investigation
+CR00092,2023-03-08,2023,Dehradun,Uttarakhand,Cyber,UPI Fraud,High,345,Closed
+CR00093,2026-12-20,2026,Bhubaneswar,Odisha,Cyber,UPI Fraud,High,41,Under Investigation
+CR00094,2022-09-04,2022,Chennai,Tamil Nadu,Property,Theft,Medium,96,Chargesheet Filed
+CR00095,2026-08-11,2026,Mumbai,Maharashtra,Property,Theft,High,152,Open
+CR00096,2023-05-04,2023,Jammu,J&K,Cyber,UPI Fraud,High,379,Chargesheet Filed
+CR00097,2021-01-18,2021,Delhi,Delhi,Violent,Assault,High,255,Open
+CR00098,2024-12-03,2024,Mysuru,Karnataka,Women,Stalking,High,398,Closed
+CR00099,2023-06-23,2023,Noida,Uttar Pradesh,Traffic,Hit and Run,Medium,267,Chargesheet Filed
+CR00100,2021-12-02,2021,Kochi,Kerala,Women,Stalking,Low,191,Open
+CR00101,2022-07-11,2022,Amritsar,Punjab,Violent,Assault,Low,245,Under Investigation
+CR00102,2023-05-01,2023,Mysuru,Karnataka,Women,Harassment,High,379,Under Investigation
+CR00103,2021-02-24,2021,Shimla,Himachal Pradesh,Women,Stalking,Low,288,Chargesheet Filed
+CR00104,2024-10-20,2024,Panaji,Goa,Violent,Assault,High,402,Closed
+CR00105,2026-12-29,2026,Chennai,Tamil Nadu,Women,Harassment,Low,172,Closed
+CR00106,2022-05-27,2022,Nashik,Maharashtra,Cyber,Phishing,Medium,243,Chargesheet Filed
+CR00107,2026-12-18,2026,Jabalpur,Madhya Pradesh,Cyber,UPI Fraud,High,144,Chargesheet Filed
+CR00108,2024-02-02,2024,Lucknow,Uttar Pradesh,Violent,Robbery,High,51,Closed
+CR00109,2025-01-31,2025,Pune,Maharashtra,Traffic,Hit and Run,Low,415,Chargesheet Filed
+CR00110,2026-01-01,2026,Jammu,J&K,Cyber,UPI Fraud,Medium,127,Under Investigation
+CR00111,2026-07-21,2026,Delhi,Delhi,Property,Theft,Medium,321,Open
+CR00112,2023-01-22,2023,Pune,Maharashtra,Cyber,Phishing,Low,278,Chargesheet Filed
+CR00113,2025-02-06,2025,Ranchi,Jharkhand,Traffic,Hit and Run,High,26,Under Investigation
+CR00114,2021-10-26,2021,Coimbatore,Tamil Nadu,Traffic,Hit and Run,Medium,130,Chargesheet Filed
+CR00115,2024-03-07,2024,Pune,Maharashtra,Traffic,Drunk Driving,High,172,Chargesheet Filed
+CR00116,2020-09-23,2020,Coimbatore,Tamil Nadu,Women,Stalking,High,144,Open
+CR00117,2024-07-19,2024,Dhanbad,Jharkhand,Cyber,UPI Fraud,Medium,491,Under Investigation
+CR00118,2020-04-24,2020,Aurangabad,Maharashtra,Women,Stalking,Low,384,Closed
+CR00119,2020-09-23,2020,Hyderabad,Telangana,Traffic,Hit and Run,High,402,Open
+CR00120,2025-07-24,2025,Jodhpur,Rajasthan,Violent,Assault,Medium,297,Under Investigation
+CR00121,2023-12-08,2023,Nagpur,Maharashtra,Women,Stalking,Medium,391,Under Investigation
+CR00122,2021-01-18,2021,Srinagar,J&K,Violent,Robbery,High,367,Under Investigation
+CR00123,2026-05-07,2026,Mumbai,Maharashtra,Violent,Assault,Low,239,Under Investigation
+CR00124,2020-05-10,2020,Agra,Uttar Pradesh,Cyber,UPI Fraud,Medium,115,Open
+CR00125,2021-08-13,2021,Panaji,Goa,Women,Harassment,High,490,Closed
+CR00126,2025-06-28,2025,Surat,Gujarat,Women,Harassment,Low,140,Chargesheet Filed
+CR00127,2022-05-31,2022,Hyderabad,Telangana,Cyber,UPI Fraud,Medium,413,Under Investigation
+CR00128,2026-07-12,2026,Shimla,Himachal Pradesh,Cyber,UPI Fraud,Low,278,Open
+CR00129,2024-08-18,2024,Salem,Tamil Nadu,Cyber,Phishing,High,249,Open
+CR00130,2021-07-09,2021,Udaipur,Rajasthan,Women,Harassment,Low,230,Chargesheet Filed
+CR00131,2025-07-02,2025,Mysuru,Karnataka,Cyber,Phishing,High,137,Open
+CR00132,2020-11-18,2020,Delhi,Delhi,Traffic,Drunk Driving,Low,17,Open
+CR00133,2026-02-19,2026,Hyderabad,Telangana,Violent,Assault,High,54,Closed
+CR00134,2020-02-08,2020,Guntur,Andhra Pradesh,Property,Burglary,High,278,Closed
+CR00135,2024-01-08,2024,Thiruvananthapuram,Kerala,Property,Theft,Low,187,Closed
+CR00136,2022-03-29,2022,Panaji,Goa,Cyber,UPI Fraud,Medium,163,Under Investigation
+CR00137,2020-11-08,2020,Jaipur,Rajasthan,Traffic,Drunk Driving,Low,161,Open
+CR00138,2025-09-27,2025,Srinagar,J&K,Cyber,UPI Fraud,High,113,Closed
+CR00139,2024-06-15,2024,Kanpur,Uttar Pradesh,Women,Stalking,Low,14,Open
+CR00140,2021-01-27,2021,Vadodara,Gujarat,Women,Harassment,Low,411,Open
+CR00141,2026-09-11,2026,Dehradun,Uttarakhand,Property,Burglary,Medium,398,Under Investigation
+CR00142,2026-09-23,2026,Kochi,Kerala,Violent,Robbery,High,263,Chargesheet Filed
+CR00143,2025-08-21,2025,Thiruvananthapuram,Kerala,Women,Stalking,High,61,Under Investigation
+CR00144,2021-02-07,2021,Gurugram,Haryana,Women,Harassment,Medium,390,Under Investigation
+CR00145,2022-10-02,2022,Bhubaneswar,Odisha,Cyber,UPI Fraud,Medium,410,Chargesheet Filed
+CR00146,2025-07-29,2025,Kolkata,West Bengal,Women,Harassment,High,489,Open
+CR00147,2021-09-19,2021,Indore,Madhya Pradesh,Cyber,Phishing,High,249,Closed
+CR00148,2022-07-23,2022,Aurangabad,Maharashtra,Violent,Robbery,Low,330,Open
+CR00149,2021-10-01,2021,Kochi,Kerala,Cyber,UPI Fraud,High,487,Closed
+CR00150,2020-11-25,2020,Pune,Maharashtra,Cyber,Phishing,High,435,Closed
+CR00151,2021-09-11,2021,Varanasi,Uttar Pradesh,Property,Theft,High,287,Under Investigation
+CR00152,2026-11-18,2026,Faridabad,Haryana,Violent,Robbery,Low,343,Chargesheet Filed
+CR00153,2021-10-12,2021,Jaipur,Rajasthan,Traffic,Hit and Run,High,141,Closed
+CR00154,2025-07-25,2025,Kanpur,Uttar Pradesh,Property,Burglary,High,54,Open
+CR00155,2020-06-16,2020,Mysuru,Karnataka,Violent,Assault,Medium,286,Closed
+CR00156,2024-03-06,2024,Gurugram,Haryana,Cyber,UPI Fraud,Medium,444,Closed
+CR00157,2022-08-15,2022,Udaipur,Rajasthan,Violent,Robbery,Medium,491,Closed
+CR00158,2020-02-09,2020,Visakhapatnam,Andhra Pradesh,Cyber,UPI Fraud,Low,224,Under Investigation
+CR00159,2021-03-07,2021,Kochi,Kerala,Cyber,UPI Fraud,Low,47,Closed
+CR00160,2025-12-09,2025,Ranchi,Jharkhand,Traffic,Hit and Run,Low,243,Chargesheet Filed
+CR00161,2020-08-26,2020,Mumbai,Maharashtra,Traffic,Drunk Driving,Medium,360,Under Investigation
+CR00162,2023-11-26,2023,Shimla,Himachal Pradesh,Women,Stalking,Low,119,Chargesheet Filed
+CR00163,2022-10-15,2022,Surat,Gujarat,Cyber,Phishing,Medium,405,Closed
+CR00164,2024-07-26,2024,Guwahati,Assam,Cyber,UPI Fraud,Medium,407,Closed
+CR00165,2026-01-22,2026,Bhubaneswar,Odisha,Property,Burglary,Low,337,Under Investigation
+CR00166,2026-05-07,2026,Salem,Tamil Nadu,Women,Harassment,Low,54,Under Investigation
+CR00167,2020-08-10,2020,Kochi,Kerala,Violent,Robbery,High,434,Chargesheet Filed
+CR00168,2026-01-16,2026,Thiruvananthapuram,Kerala,Women,Harassment,Low,97,Closed
+CR00169,2025-01-01,2025,Mumbai,Maharashtra,Violent,Assault,High,265,Under Investigation
+CR00170,2020-06-09,2020,Panaji,Goa,Violent,Robbery,High,417,Under Investigation
+CR00171,2022-08-03,2022,Mumbai,Maharashtra,Violent,Assault,Medium,133,Under Investigation
+CR00172,2024-05-23,2024,Nagpur,Maharashtra,Cyber,UPI Fraud,Low,194,Open
+CR00173,2026-12-15,2026,Srinagar,J&K,Cyber,UPI Fraud,Medium,70,Open
+CR00174,2025-06-28,2025,Amritsar,Punjab,Property,Burglary,High,475,Under Investigation
+CR00175,2023-04-29,2023,Nashik,Maharashtra,Cyber,UPI Fraud,Low,289,Closed
+CR00176,2023-11-27,2023,Vijayawada,Andhra Pradesh,Traffic,Drunk Driving,Medium,156,Closed
+CR00177,2023-11-24,2023,Thiruvananthapuram,Kerala,Property,Theft,High,329,Open
+CR00178,2026-08-21,2026,Madurai,Tamil Nadu,Traffic,Drunk Driving,High,89,Open
+CR00179,2024-03-07,2024,Pune,Maharashtra,Property,Burglary,Low,291,Chargesheet Filed
+CR00180,2021-12-02,2021,Kochi,Kerala,Violent,Assault,Medium,189,Under Investigation
+CR00181,2020-07-25,2020,Jammu,J&K,Traffic,Drunk Driving,Medium,286,Open
+CR00182,2023-10-31,2023,Tiruchirappalli,Tamil Nadu,Traffic,Drunk Driving,Low,251,Under Investigation
+CR00183,2023-04-06,2023,Noida,Uttar Pradesh,Women,Harassment,Low,456,Chargesheet Filed
+CR00184,2022-10-10,2022,Lucknow,Uttar Pradesh,Property,Burglary,High,328,Closed
+CR00185,2026-02-18,2026,Udaipur,Rajasthan,Women,Stalking,High,381,Closed
+CR00186,2023-10-28,2023,Guntur,Andhra Pradesh,Violent,Assault,Low,53,Chargesheet Filed
+CR00187,2021-07-26,2021,Udaipur,Rajasthan,Property,Theft,High,455,Open
+CR00188,2024-01-29,2024,Faridabad,Haryana,Women,Stalking,Medium,193,Open
+CR00189,2020-02-28,2020,Pune,Maharashtra,Cyber,UPI Fraud,Medium,88,Under Investigation
+CR00190,2020-01-25,2020,Visakhapatnam,Andhra Pradesh,Traffic,Hit and Run,Low,227,Closed
+CR00191,2024-05-09,2024,Tiruchirappalli,Tamil Nadu,Violent,Robbery,Medium,83,Closed
+CR00192,2024-07-18,2024,Jodhpur,Rajasthan,Women,Harassment,High,276,Chargesheet Filed
+CR00193,2024-09-09,2024,Amritsar,Punjab,Violent,Robbery,Low,488,Open
+CR00194,2026-06-30,2026,Mumbai,Maharashtra,Cyber,Phishing,Low,388,Open
+CR00195,2020-06-10,2020,Ahmedabad,Gujarat,Women,Stalking,Low,384,Open
+CR00196,2020-05-15,2020,Jaipur,Rajasthan,Women,Stalking,Low,455,Open
+CR00197,2026-02-23,2026,Srinagar,J&K,Women,Stalking,High,451,Closed
+CR00198,2023-06-13,2023,Vijayawada,Andhra Pradesh,Women,Harassment,High,289,Chargesheet Filed
+CR00199,2024-12-28,2024,Bhopal,Madhya Pradesh,Cyber,Phishing,Medium,350,Chargesheet Filed
+CR00200,2023-12-02,2023,Srinagar,J&K,Women,Stalking,Low,410,Open
+CR00201,2025-12-01,2025,Tiruchirappalli,Tamil Nadu,Violent,Assault,Medium,34,Chargesheet Filed
+CR00202,2021-09-16,2021,Noida,Uttar Pradesh,Women,Harassment,Medium,431,Closed
+CR00203,2020-10-23,2020,Mumbai,Maharashtra,Cyber,UPI Fraud,High,325,Chargesheet Filed
+CR00204,2025-05-06,2025,Kochi,Kerala,Property,Theft,Medium,74,Open
+CR00205,2026-03-01,2026,Dhanbad,Jharkhand,Property,Burglary,Low,172,Open
+CR00206,2026-12-23,2026,Jodhpur,Rajasthan,Cyber,UPI Fraud,High,112,Chargesheet Filed
+CR00207,2022-04-06,2022,Agra,Uttar Pradesh,Violent,Assault,High,9,Open
+CR00208,2026-03-31,2026,Varanasi,Uttar Pradesh,Traffic,Drunk Driving,Low,372,Open
+CR00209,2023-07-09,2023,Vadodara,Gujarat,Violent,Robbery,Low,376,Closed
+CR00210,2021-11-20,2021,Tiruchirappalli,Tamil Nadu,Violent,Assault,High,347,Under Investigation
+CR00211,2024-09-18,2024,Kochi,Kerala,Cyber,Phishing,High,463,Under Investigation
+CR00212,2020-07-29,2020,Madurai,Tamil Nadu,Cyber,UPI Fraud,Medium,415,Closed
+CR00213,2022-06-29,2022,Srinagar,J&K,Property,Burglary,High,354,Chargesheet Filed
+CR00214,2020-08-14,2020,Ludhiana,Punjab,Violent,Assault,High,188,Closed
+CR00215,2026-03-06,2026,Dhanbad,Jharkhand,Traffic,Drunk Driving,Medium,167,Open
+CR00216,2022-08-26,2022,Pune,Maharashtra,Traffic,Drunk Driving,High,222,Under Investigation
+CR00217,2023-10-26,2023,Ludhiana,Punjab,Women,Stalking,Medium,91,Under Investigation
+CR00218,2021-08-06,2021,Mysuru,Karnataka,Traffic,Hit and Run,Low,235,Open
+CR00219,2026-01-04,2026,Aurangabad,Maharashtra,Cyber,UPI Fraud,Low,241,Chargesheet Filed
+CR00220,2022-07-15,2022,Ranchi,Jharkhand,Cyber,Phishing,Medium,15,Chargesheet Filed
+CR00221,2026-05-02,2026,Jabalpur,Madhya Pradesh,Violent,Robbery,High,148,Open
+CR00222,2021-01-23,2021,Panaji,Goa,Violent,Robbery,High,408,Under Investigation
+CR00223,2021-11-14,2021,Ranchi,Jharkhand,Cyber,UPI Fraud,Medium,437,Closed
+CR00224,2023-10-05,2023,Surat,Gujarat,Property,Burglary,Medium,54,Under Investigation
+CR00225,2025-02-14,2025,Tiruchirappalli,Tamil Nadu,Women,Harassment,High,308,Chargesheet Filed
+CR00226,2021-04-04,2021,Bhubaneswar,Odisha,Women,Stalking,Low,57,Under Investigation
+CR00227,2023-08-15,2023,Thiruvananthapuram,Kerala,Women,Harassment,Medium,130,Closed
+CR00228,2020-11-26,2020,Panaji,Goa,Women,Stalking,Low,110,Under Investigation
+CR00229,2025-04-10,2025,Ludhiana,Punjab,Property,Theft,High,144,Closed
+CR00230,2023-01-20,2023,Ranchi,Jharkhand,Women,Stalking,Low,189,Open
+CR00231,2023-01-08,2023,Faridabad,Haryana,Property,Burglary,Medium,177,Under Investigation
+CR00232,2020-10-08,2020,Amritsar,Punjab,Property,Theft,Low,286,Under Investigation
+CR00233,2021-04-09,2021,Gurugram,Haryana,Traffic,Hit and Run,High,107,Open
+CR00234,2025-11-19,2025,Jabalpur,Madhya Pradesh,Traffic,Drunk Driving,Medium,347,Closed
+CR00235,2025-07-09,2025,Kanpur,Uttar Pradesh,Women,Harassment,Medium,283,Closed
+CR00236,2021-04-27,2021,Guntur,Andhra Pradesh,Property,Theft,High,195,Under Investigation
+CR00237,2021-09-18,2021,Mumbai,Maharashtra,Traffic,Hit and Run,Low,472,Chargesheet Filed
+CR00238,2023-07-26,2023,Visakhapatnam,Andhra Pradesh,Property,Theft,High,304,Open
+CR00239,2020-04-10,2020,Ahmedabad,Gujarat,Property,Theft,High,64,Closed
+CR00240,2023-06-02,2023,Madurai,Tamil Nadu,Traffic,Drunk Driving,Medium,297,Closed
+CR00241,2023-10-18,2023,Ludhiana,Punjab,Violent,Robbery,Low,336,Closed
+CR00242,2021-01-20,2021,Delhi,Delhi,Women,Stalking,Medium,69,Chargesheet Filed
+CR00243,2020-01-10,2020,Surat,Gujarat,Property,Theft,Medium,342,Chargesheet Filed
+CR00244,2022-07-08,2022,Pune,Maharashtra,Traffic,Hit and Run,High,87,Chargesheet Filed
+CR00245,2026-12-05,2026,Vadodara,Gujarat,Traffic,Hit and Run,High,216,Chargesheet Filed
+CR00246,2021-02-23,2021,Hyderabad,Telangana,Women,Harassment,High,409,Open
+CR00247,2024-07-01,2024,Ludhiana,Punjab,Property,Theft,High,76,Under Investigation
+CR00248,2020-07-14,2020,Delhi,Delhi,Cyber,UPI Fraud,Low,276,Chargesheet Filed
+CR00249,2023-11-01,2023,Salem,Tamil Nadu,Property,Theft,Medium,476,Chargesheet Filed
+CR00250,2020-10-22,2020,Kolkata,West Bengal,Cyber,Phishing,Medium,391,Under Investigation
+CR00251,2021-07-10,2021,Vijayawada,Andhra Pradesh,Property,Burglary,High,387,Chargesheet Filed
+CR00252,2025-02-09,2025,Guntur,Andhra Pradesh,Traffic,Drunk Driving,Medium,151,Open
+CR00253,2025-05-01,2025,Guntur,Andhra Pradesh,Women,Harassment,High,368,Open
+CR00254,2026-10-15,2026,Kochi,Kerala,Violent,Assault,Medium,332,Open
+CR00255,2025-04-19,2025,Udaipur,Rajasthan,Property,Theft,High,107,Chargesheet Filed
+CR00256,2024-07-15,2024,Kolkata,West Bengal,Traffic,Drunk Driving,Medium,298,Open
+CR00257,2025-11-16,2025,Mumbai,Maharashtra,Property,Theft,High,467,Under Investigation
+CR00258,2024-09-19,2024,Patna,Bihar,Traffic,Hit and Run,High,88,Chargesheet Filed
+CR00259,2020-03-01,2020,Jaipur,Rajasthan,Women,Stalking,Medium,109,Open
+CR00260,2020-01-21,2020,Coimbatore,Tamil Nadu,Women,Stalking,High,455,Under Investigation
+CR00261,2025-09-14,2025,Mysuru,Karnataka,Cyber,Phishing,High,357,Open
+CR00262,2022-02-07,2022,Mumbai,Maharashtra,Cyber,UPI Fraud,High,387,Open
+CR00263,2023-12-24,2023,Bengaluru,Karnataka,Cyber,UPI Fraud,Low,195,Closed
+CR00264,2022-02-07,2022,Madurai,Tamil Nadu,Women,Harassment,Low,37,Under Investigation
+CR00265,2023-11-04,2023,Ludhiana,Punjab,Property,Burglary,High,187,Closed
+CR00266,2021-01-19,2021,Aurangabad,Maharashtra,Traffic,Drunk Driving,High,217,Chargesheet Filed
+CR00267,2024-06-08,2024,Gurugram,Haryana,Property,Burglary,Medium,209,Closed
+CR00268,2025-07-05,2025,Kolkata,West Bengal,Women,Stalking,Medium,165,Chargesheet Filed
+CR00269,2026-08-27,2026,Delhi,Delhi,Traffic,Hit and Run,Medium,150,Chargesheet Filed
+CR00270,2020-01-08,2020,Udaipur,Rajasthan,Cyber,UPI Fraud,Low,10,Closed
+CR00271,2025-11-23,2025,Jaipur,Rajasthan,Property,Theft,Low,417,Under Investigation
+CR00272,2020-08-24,2020,Bhopal,Madhya Pradesh,Cyber,UPI Fraud,Low,107,Closed
+CR00273,2022-12-25,2022,Vijayawada,Andhra Pradesh,Women,Stalking,Low,470,Under Investigation
+CR00274,2025-03-29,2025,Raipur,Chhattisgarh,Violent,Assault,Low,481,Chargesheet Filed
+CR00275,2021-01-02,2021,Chennai,Tamil Nadu,Women,Harassment,Medium,391,Under Investigation
+CR00276,2022-08-21,2022,Faridabad,Haryana,Property,Theft,High,443,Under Investigation
+CR00277,2024-05-17,2024,Amritsar,Punjab,Traffic,Hit and Run,Medium,305,Open
+CR00278,2023-04-06,2023,Jammu,J&K,Property,Theft,Low,99,Chargesheet Filed
+CR00279,2026-03-26,2026,Nashik,Maharashtra,Traffic,Hit and Run,High,499,Chargesheet Filed
+CR00280,2022-05-14,2022,Jabalpur,Madhya Pradesh,Violent,Robbery,Medium,363,Open
+CR00281,2021-12-30,2021,Vadodara,Gujarat,Cyber,Phishing,Medium,17,Closed
+CR00282,2022-01-04,2022,Aurangabad,Maharashtra,Property,Theft,High,66,Closed
+CR00283,2022-08-31,2022,Agra,Uttar Pradesh,Violent,Robbery,High,137,Under Investigation
+CR00284,2021-05-19,2021,Varanasi,Uttar Pradesh,Property,Theft,High,387,Under Investigation
+CR00285,2021-11-25,2021,Tiruchirappalli,Tamil Nadu,Violent,Robbery,High,266,Closed
+CR00286,2025-03-23,2025,Jaipur,Rajasthan,Women,Stalking,High,242,Under Investigation
+CR00287,2024-09-05,2024,Pune,Maharashtra,Women,Harassment,Medium,368,Chargesheet Filed
+CR00288,2020-05-15,2020,Chennai,Tamil Nadu,Traffic,Drunk Driving,Low,64,Under Investigation
+CR00289,2023-06-18,2023,Pune,Maharashtra,Traffic,Hit and Run,Low,336,Closed
+CR00290,2023-08-19,2023,Surat,Gujarat,Violent,Assault,High,481,Open
+CR00291,2020-08-11,2020,Jodhpur,Rajasthan,Violent,Assault,Low,473,Chargesheet Filed
+CR00292,2020-10-01,2020,Visakhapatnam,Andhra Pradesh,Violent,Robbery,Low,384,Closed
+CR00293,2026-09-30,2026,Kochi,Kerala,Violent,Assault,Medium,223,Closed
+CR00294,2024-06-09,2024,Jodhpur,Rajasthan,Women,Stalking,Medium,11,Closed
+CR00295,2021-06-16,2021,Salem,Tamil Nadu,Cyber,UPI Fraud,High,16,Under Investigation
+CR00296,2022-07-03,2022,Salem,Tamil Nadu,Property,Theft,Medium,269,Chargesheet Filed
+CR00297,2020-05-29,2020,Nashik,Maharashtra,Violent,Robbery,Medium,241,Chargesheet Filed
+CR00298,2023-06-28,2023,Nashik,Maharashtra,Traffic,Hit and Run,Low,498,Closed
+CR00299,2024-03-15,2024,Coimbatore,Tamil Nadu,Cyber,Phishing,High,70,Open
+CR00300,2023-11-13,2023,Delhi,Delhi,Women,Harassment,Low,488,Under Investigation
+CR00301,2023-05-25,2023,Patna,Bihar,Women,Harassment,Medium,237,Closed
+CR00302,2022-08-03,2022,Thiruvananthapuram,Kerala,Violent,Assault,Medium,234,Closed
+CR00303,2024-05-30,2024,Jaipur,Rajasthan,Violent,Assault,Low,90,Closed
+CR00304,2023-01-17,2023,Amritsar,Punjab,Women,Harassment,High,500,Open
+CR00305,2022-06-07,2022,Aurangabad,Maharashtra,Violent,Robbery,Low,185,Chargesheet Filed
+CR00306,2022-04-08,2022,Siliguri,West Bengal,Cyber,UPI Fraud,Medium,109,Chargesheet Filed
+CR00307,2020-12-04,2020,Faridabad,Haryana,Women,Stalking,High,326,Under Investigation
+CR00308,2022-10-17,2022,Shimla,Himachal Pradesh,Violent,Assault,Medium,316,Closed
+CR00309,2026-08-27,2026,Surat,Gujarat,Property,Burglary,Low,288,Chargesheet Filed
+CR00310,2024-05-08,2024,Ahmedabad,Gujarat,Cyber,UPI Fraud,High,132,Closed
+CR00311,2021-08-23,2021,Jammu,J&K,Women,Harassment,Low,93,Chargesheet Filed
+CR00312,2024-10-01,2024,Ludhiana,Punjab,Traffic,Drunk Driving,Medium,186,Closed
+CR00313,2025-03-15,2025,Siliguri,West Bengal,Women,Harassment,Medium,48,Closed
+CR00314,2026-08-21,2026,Agra,Uttar Pradesh,Cyber,UPI Fraud,Medium,95,Open
+CR00315,2020-10-24,2020,Shimla,Himachal Pradesh,Violent,Robbery,Low,138,Chargesheet Filed
+CR00316,2021-11-07,2021,Nagpur,Maharashtra,Property,Theft,High,251,Under Investigation
+CR00317,2026-04-13,2026,Kolkata,West Bengal,Property,Burglary,Low,321,Under Investigation
+CR00318,2024-06-21,2024,Varanasi,Uttar Pradesh,Cyber,Phishing,Medium,362,Under Investigation
+CR00319,2024-09-01,2024,Kanpur,Uttar Pradesh,Property,Theft,Medium,107,Under Investigation
+CR00320,2021-08-04,2021,Siliguri,West Bengal,Property,Theft,High,481,Closed
+CR00321,2024-03-11,2024,Amritsar,Punjab,Traffic,Hit and Run,High,428,Open
+CR00322,2023-06-12,2023,Madurai,Tamil Nadu,Traffic,Drunk Driving,Medium,7,Closed
+CR00323,2024-06-13,2024,Shimla,Himachal Pradesh,Women,Harassment,High,468,Under Investigation
+CR00324,2023-10-27,2023,Chennai,Tamil Nadu,Property,Theft,Medium,242,Open
+CR00325,2020-02-02,2020,Bhopal,Madhya Pradesh,Women,Harassment,Medium,252,Open
+CR00326,2023-03-10,2023,Kochi,Kerala,Traffic,Drunk Driving,Medium,131,Under Investigation
+CR00327,2023-06-26,2023,Ahmedabad,Gujarat,Traffic,Hit and Run,High,387,Chargesheet Filed
+CR00328,2020-10-29,2020,Siliguri,West Bengal,Cyber,Phishing,Low,34,Closed
+CR00329,2020-08-11,2020,Jaipur,Rajasthan,Cyber,Phishing,Low,477,Under Investigation
+CR00330,2023-03-11,2023,Bengaluru,Karnataka,Traffic,Drunk Driving,Low,209,Closed
+CR00331,2025-12-30,2025,Agra,Uttar Pradesh,Traffic,Hit and Run,Low,480,Open
+CR00332,2022-12-26,2022,Raipur,Chhattisgarh,Violent,Assault,Low,491,Open
+CR00333,2023-08-12,2023,Mumbai,Maharashtra,Cyber,UPI Fraud,Low,325,Open
+CR00334,2025-04-16,2025,Aurangabad,Maharashtra,Traffic,Hit and Run,Medium,247,Open
+CR00335,2021-12-13,2021,Nagpur,Maharashtra,Traffic,Hit and Run,High,19,Open
+CR00336,2022-03-13,2022,Pune,Maharashtra,Property,Burglary,Low,264,Open
+CR00337,2025-08-15,2025,Pune,Maharashtra,Women,Stalking,Medium,177,Open
+CR00338,2024-01-28,2024,Shimla,Himachal Pradesh,Women,Stalking,Medium,327,Closed
+CR00339,2020-12-11,2020,Tiruchirappalli,Tamil Nadu,Violent,Robbery,Low,192,Closed
+CR00340,2020-09-22,2020,Surat,Gujarat,Violent,Assault,Low,267,Chargesheet Filed
+CR00341,2022-08-03,2022,Raipur,Chhattisgarh,Women,Harassment,Low,358,Closed
+CR00342,2021-07-29,2021,Varanasi,Uttar Pradesh,Women,Stalking,High,434,Under Investigation
+CR00343,2023-02-11,2023,Delhi,Delhi,Traffic,Drunk Driving,High,249,Under Investigation
+CR00344,2021-09-29,2021,Shimla,Himachal Pradesh,Women,Harassment,High,355,Open
+CR00345,2024-10-16,2024,Udaipur,Rajasthan,Cyber,Phishing,Medium,51,Closed
+CR00346,2020-11-04,2020,Thiruvananthapuram,Kerala,Property,Theft,Low,475,Open
+CR00347,2020-05-18,2020,Ludhiana,Punjab,Women,Stalking,High,155,Closed
+CR00348,2024-02-02,2024,Shimla,Himachal Pradesh,Cyber,Phishing,High,321,Chargesheet Filed
+CR00349,2025-10-05,2025,Kanpur,Uttar Pradesh,Violent,Robbery,Medium,305,Chargesheet Filed
+CR00350,2024-12-08,2024,Vijayawada,Andhra Pradesh,Traffic,Drunk Driving,Medium,247,Under Investigation
+CR00351,2026-12-22,2026,Mumbai,Maharashtra,Women,Stalking,High,301,Chargesheet Filed
+CR00352,2021-08-21,2021,Patna,Bihar,Traffic,Hit and Run,Medium,235,Under Investigation
+CR00353,2023-06-13,2023,Jammu,J&K,Cyber,UPI Fraud,Low,96,Open
+CR00354,2020-10-19,2020,Noida,Uttar Pradesh,Traffic,Hit and Run,Medium,451,Under Investigation
+CR00355,2020-04-06,2020,Nashik,Maharashtra,Property,Burglary,High,317,Chargesheet Filed
+CR00356,2020-09-03,2020,Indore,Madhya Pradesh,Women,Stalking,Low,237,Open
+CR00357,2022-05-31,2022,Bengaluru,Karnataka,Cyber,UPI Fraud,High,379,Under Investigation
+CR00358,2024-04-18,2024,Bhubaneswar,Odisha,Women,Harassment,Medium,322,Chargesheet Filed
+CR00359,2024-10-19,2024,Kolkata,West Bengal,Traffic,Drunk Driving,High,346,Chargesheet Filed
+CR00360,2022-10-05,2022,Amritsar,Punjab,Women,Stalking,Medium,307,Chargesheet Filed
+CR00361,2026-05-17,2026,Ahmedabad,Gujarat,Cyber,UPI Fraud,High,234,Chargesheet Filed
+CR00362,2025-12-28,2025,Udaipur,Rajasthan,Cyber,UPI Fraud,Low,211,Under Investigation
+CR00363,2020-06-20,2020,Kolkata,West Bengal,Women,Harassment,Low,145,Open
+CR00364,2020-05-11,2020,Vadodara,Gujarat,Women,Harassment,Medium,303,Chargesheet Filed
+CR00365,2020-08-11,2020,Pune,Maharashtra,Property,Burglary,Low,22,Open
+CR00366,2025-11-30,2025,Panaji,Goa,Property,Burglary,Low,464,Closed
+CR00367,2023-06-21,2023,Ranchi,Jharkhand,Traffic,Hit and Run,High,133,Under Investigation
+CR00368,2021-07-18,2021,Vadodara,Gujarat,Violent,Assault,Medium,196,Under Investigation
+CR00369,2023-12-31,2023,Thiruvananthapuram,Kerala,Traffic,Hit and Run,Medium,398,Closed
+CR00370,2024-05-23,2024,Jaipur,Rajasthan,Violent,Assault,High,114,Chargesheet Filed
+CR00371,2021-02-17,2021,Amritsar,Punjab,Women,Harassment,Low,225,Chargesheet Filed
+CR00372,2023-09-12,2023,Vadodara,Gujarat,Property,Burglary,Low,350,Closed
+CR00373,2026-11-15,2026,Ranchi,Jharkhand,Cyber,Phishing,Low,285,Open
+CR00374,2026-01-28,2026,Vadodara,Gujarat,Violent,Assault,High,481,Closed
+CR00375,2024-04-21,2024,Salem,Tamil Nadu,Women,Stalking,Medium,325,Open
+CR00376,2020-10-13,2020,Kochi,Kerala,Property,Burglary,Medium,246,Chargesheet Filed
+CR00377,2021-06-14,2021,Siliguri,West Bengal,Traffic,Drunk Driving,Medium,94,Open
+CR00378,2022-09-25,2022,Varanasi,Uttar Pradesh,Violent,Assault,Low,354,Closed
+CR00379,2020-09-07,2020,Ranchi,Jharkhand,Violent,Assault,High,46,Under Investigation
+CR00380,2020-04-25,2020,Aurangabad,Maharashtra,Traffic,Drunk Driving,Low,470,Open
+CR00381,2024-10-28,2024,Delhi,Delhi,Property,Burglary,High,442,Under Investigation
+CR00382,2024-05-24,2024,Indore,Madhya Pradesh,Property,Theft,Medium,134,Under Investigation
+CR00383,2022-11-27,2022,Lucknow,Uttar Pradesh,Women,Harassment,Medium,232,Chargesheet Filed
+CR00384,2022-09-01,2022,Guwahati,Assam,Violent,Assault,High,181,Open
+CR00385,2026-04-10,2026,Patna,Bihar,Traffic,Hit and Run,Low,395,Closed
+CR00386,2025-06-17,2025,Nashik,Maharashtra,Traffic,Hit and Run,High,82,Closed
+CR00387,2023-01-06,2023,Madurai,Tamil Nadu,Violent,Assault,High,224,Open
+CR00388,2023-01-07,2023,Jammu,J&K,Violent,Assault,Low,443,Under Investigation
+CR00389,2022-07-31,2022,Delhi,Delhi,Cyber,Phishing,Low,50,Chargesheet Filed
+CR00390,2025-09-07,2025,Bengaluru,Karnataka,Traffic,Drunk Driving,Medium,352,Chargesheet Filed
+CR00391,2026-02-14,2026,Jaipur,Rajasthan,Violent,Robbery,Low,362,Under Investigation
+CR00392,2023-02-16,2023,Ranchi,Jharkhand,Property,Theft,High,297,Closed
+CR00393,2020-05-18,2020,Aurangabad,Maharashtra,Property,Theft,Medium,184,Open
+CR00394,2024-01-01,2024,Dehradun,Uttarakhand,Violent,Assault,High,157,Chargesheet Filed
+CR00395,2026-09-26,2026,Panaji,Goa,Traffic,Drunk Driving,High,262,Under Investigation
+CR00396,2022-05-04,2022,Indore,Madhya Pradesh,Traffic,Hit and Run,High,360,Open
+CR00397,2026-06-22,2026,Bengaluru,Karnataka,Women,Stalking,Medium,154,Under Investigation
+CR00398,2021-03-08,2021,Bengaluru,Karnataka,Property,Burglary,Low,461,Closed
+CR00399,2024-06-25,2024,Dehradun,Uttarakhand,Traffic,Drunk Driving,Medium,333,Open
+CR00400,2020-03-11,2020,Gurugram,Haryana,Traffic,Hit and Run,Medium,257,Chargesheet Filed
+CR00401,2025-09-18,2025,Pune,Maharashtra,Cyber,Phishing,High,369,Open
+CR00402,2024-06-02,2024,Indore,Madhya Pradesh,Property,Theft,Medium,177,Under Investigation
+CR00403,2021-01-04,2021,Jaipur,Rajasthan,Violent,Assault,High,131,Closed
+CR00404,2021-01-04,2021,Lucknow,Uttar Pradesh,Property,Theft,Medium,272,Under Investigation
+CR00405,2024-12-02,2024,Mumbai,Maharashtra,Women,Harassment,Medium,331,Closed
+CR00406,2025-05-08,2025,Agra,Uttar Pradesh,Property,Burglary,Medium,46,Under Investigation
+CR00407,2024-06-26,2024,Jabalpur,Madhya Pradesh,Property,Burglary,Medium,32,Chargesheet Filed
+CR00408,2024-06-02,2024,Nashik,Maharashtra,Violent,Robbery,High,12,Open
+CR00409,2026-05-30,2026,Agra,Uttar Pradesh,Property,Burglary,Medium,243,Chargesheet Filed
+CR00410,2022-07-03,2022,Jabalpur,Madhya Pradesh,Violent,Robbery,Medium,430,Closed
+CR00411,2021-01-05,2021,Kanpur,Uttar Pradesh,Traffic,Hit and Run,High,184,Closed
+CR00412,2025-04-29,2025,Udaipur,Rajasthan,Violent,Robbery,High,109,Under Investigation
+CR00413,2021-07-07,2021,Bhubaneswar,Odisha,Violent,Robbery,Medium,86,Open
+CR00414,2025-09-07,2025,Amritsar,Punjab,Women,Stalking,Low,401,Open
+CR00415,2024-03-19,2024,Jodhpur,Rajasthan,Traffic,Drunk Driving,Low,401,Open
+CR00416,2022-08-25,2022,Lucknow,Uttar Pradesh,Cyber,Phishing,Medium,311,Closed
+CR00417,2020-07-09,2020,Ahmedabad,Gujarat,Cyber,UPI Fraud,Medium,202,Under Investigation
+CR00418,2020-02-01,2020,Bhubaneswar,Odisha,Property,Burglary,Medium,114,Chargesheet Filed
+CR00419,2024-07-30,2024,Bhubaneswar,Odisha,Violent,Assault,Medium,54,Open
+CR00420,2026-07-30,2026,Aurangabad,Maharashtra,Cyber,Phishing,Medium,353,Open
+CR00421,2022-09-17,2022,Jodhpur,Rajasthan,Violent,Robbery,High,439,Chargesheet Filed
+CR00422,2021-10-19,2021,Ahmedabad,Gujarat,Cyber,Phishing,Low,137,Under Investigation
+CR00423,2022-03-16,2022,Kochi,Kerala,Violent,Robbery,Low,323,Open
+CR00424,2021-04-05,2021,Tiruchirappalli,Tamil Nadu,Property,Burglary,Medium,279,Chargesheet Filed
+CR00425,2024-07-11,2024,Salem,Tamil Nadu,Violent,Robbery,High,142,Closed
+CR00426,2026-11-12,2026,Vadodara,Gujarat,Cyber,Phishing,High,218,Open
+CR00427,2023-07-18,2023,Jammu,J&K,Cyber,UPI Fraud,Medium,174,Open
+CR00428,2022-08-11,2022,Lucknow,Uttar Pradesh,Cyber,UPI Fraud,Low,68,Open
+CR00429,2022-09-06,2022,Jodhpur,Rajasthan,Women,Stalking,Low,254,Open
+CR00430,2020-11-06,2020,Guntur,Andhra Pradesh,Women,Stalking,Medium,328,Open
+CR00431,2026-12-09,2026,Guwahati,Assam,Property,Burglary,High,421,Under Investigation
+CR00432,2023-09-30,2023,Bengaluru,Karnataka,Violent,Robbery,Medium,194,Open
+CR00433,2024-09-25,2024,Siliguri,West Bengal,Cyber,UPI Fraud,Low,20,Chargesheet Filed
+CR00434,2022-11-11,2022,Indore,Madhya Pradesh,Violent,Robbery,High,262,Closed
+CR00435,2022-07-11,2022,Coimbatore,Tamil Nadu,Violent,Robbery,High,157,Closed
+CR00436,2025-04-13,2025,Jammu,J&K,Women,Stalking,Medium,306,Closed
+CR00437,2025-05-21,2025,Bhopal,Madhya Pradesh,Property,Burglary,Low,224,Open
+CR00438,2022-02-23,2022,Madurai,Tamil Nadu,Violent,Assault,High,72,Under Investigation
+CR00439,2023-03-16,2023,Bengaluru,Karnataka,Violent,Assault,High,484,Under Investigation
+CR00440,2021-06-18,2021,Siliguri,West Bengal,Violent,Robbery,Medium,153,Open
+CR00441,2026-05-26,2026,Lucknow,Uttar Pradesh,Violent,Assault,High,441,Chargesheet Filed
+CR00442,2022-09-06,2022,Guntur,Andhra Pradesh,Cyber,UPI Fraud,Low,421,Open
+CR00443,2021-08-01,2021,Noida,Uttar Pradesh,Cyber,Phishing,Medium,126,Under Investigation
+CR00444,2023-03-27,2023,Lucknow,Uttar Pradesh,Traffic,Drunk Driving,Low,273,Under Investigation
+CR00445,2021-02-12,2021,Kolkata,West Bengal,Property,Theft,Low,44,Closed
+CR00446,2020-07-29,2020,Raipur,Chhattisgarh,Women,Harassment,Medium,300,Under Investigation
+CR00447,2025-02-03,2025,Jodhpur,Rajasthan,Cyber,UPI Fraud,High,388,Open
+CR00448,2020-02-19,2020,Salem,Tamil Nadu,Property,Theft,Medium,87,Under Investigation
+CR00449,2020-12-03,2020,Surat,Gujarat,Traffic,Hit and Run,Low,346,Open
+CR00450,2021-04-23,2021,Guwahati,Assam,Women,Stalking,Medium,342,Under Investigation
+CR00451,2026-06-02,2026,Jabalpur,Madhya Pradesh,Women,Harassment,High,361,Under Investigation
+CR00452,2025-11-14,2025,Udaipur,Rajasthan,Property,Theft,High,270,Chargesheet Filed
+CR00453,2025-10-19,2025,Dehradun,Uttarakhand,Women,Stalking,Low,305,Open
+CR00454,2024-11-01,2024,Kolkata,West Bengal,Traffic,Hit and Run,Low,220,Open
+CR00455,2021-10-04,2021,Lucknow,Uttar Pradesh,Women,Stalking,Medium,57,Open
+CR00456,2021-05-19,2021,Dhanbad,Jharkhand,Property,Theft,Medium,199,Under Investigation
+CR00457,2021-02-20,2021,Nagpur,Maharashtra,Women,Stalking,Medium,376,Closed
+CR00458,2025-07-10,2025,Jammu,J&K,Cyber,Phishing,High,295,Open
+CR00459,2024-01-15,2024,Mumbai,Maharashtra,Violent,Assault,Medium,319,Closed
+CR00460,2023-12-13,2023,Jaipur,Rajasthan,Violent,Robbery,Medium,57,Under Investigation
+CR00461,2026-10-16,2026,Bhopal,Madhya Pradesh,Traffic,Hit and Run,Medium,17,Chargesheet Filed
+CR00462,2021-04-26,2021,Aurangabad,Maharashtra,Property,Burglary,Medium,385,Open
+CR00463,2026-11-21,2026,Delhi,Delhi,Traffic,Drunk Driving,Low,296,Open
+CR00464,2021-01-31,2021,Noida,Uttar Pradesh,Cyber,Phishing,Medium,43,Chargesheet Filed
+CR00465,2025-08-27,2025,Visakhapatnam,Andhra Pradesh,Women,Harassment,Low,424,Chargesheet Filed
+CR00466,2025-08-06,2025,Panaji,Goa,Property,Burglary,Low,107,Closed
+CR00467,2020-02-14,2020,Guntur,Andhra Pradesh,Women,Harassment,Low,139,Closed
+CR00468,2026-01-14,2026,Bhubaneswar,Odisha,Traffic,Drunk Driving,Low,489,Open
+CR00469,2021-07-05,2021,Kanpur,Uttar Pradesh,Traffic,Hit and Run,High,418,Open
+CR00470,2023-05-02,2023,Ahmedabad,Gujarat,Cyber,UPI Fraud,Medium,332,Under Investigation
+CR00471,2026-06-06,2026,Mumbai,Maharashtra,Violent,Assault,High,187,Chargesheet Filed
+CR00472,2022-10-26,2022,Vijayawada,Andhra Pradesh,Violent,Assault,High,353,Under Investigation
+CR00473,2024-04-11,2024,Patna,Bihar,Violent,Robbery,Low,390,Open
+CR00474,2020-12-30,2020,Kolkata,West Bengal,Cyber,Phishing,Low,99,Open
+CR00475,2024-10-06,2024,Kanpur,Uttar Pradesh,Cyber,Phishing,Low,239,Closed
+CR00476,2025-03-17,2025,Madurai,Tamil Nadu,Violent,Assault,Low,364,Closed
+CR00477,2020-12-16,2020,Nashik,Maharashtra,Cyber,UPI Fraud,High,126,Chargesheet Filed
+CR00478,2026-01-01,2026,Bengaluru,Karnataka,Traffic,Hit and Run,High,433,Chargesheet Filed
+CR00479,2023-10-28,2023,Hyderabad,Telangana,Property,Burglary,High,141,Closed
+CR00480,2022-01-08,2022,Vijayawada,Andhra Pradesh,Violent,Assault,Medium,114,Under Investigation
+CR00481,2025-03-09,2025,Coimbatore,Tamil Nadu,Cyber,Phishing,Medium,18,Under Investigation
+CR00482,2023-07-26,2023,Coimbatore,Tamil Nadu,Cyber,UPI Fraud,Medium,337,Open
+CR00483,2022-03-12,2022,Nagpur,Maharashtra,Women,Harassment,Low,332,Under Investigation
+CR00484,2021-11-19,2021,Gurugram,Haryana,Women,Harassment,High,63,Open
+CR00485,2021-08-31,2021,Surat,Gujarat,Traffic,Drunk Driving,Low,423,Under Investigation
+CR00486,2020-07-13,2020,Ahmedabad,Gujarat,Cyber,Phishing,High,485,Under Investigation
+CR00487,2024-06-21,2024,Jabalpur,Madhya Pradesh,Traffic,Hit and Run,Low,353,Closed
+CR00488,2021-11-25,2021,Jabalpur,Madhya Pradesh,Women,Harassment,Low,201,Under Investigation
+CR00489,2024-10-04,2024,Udaipur,Rajasthan,Cyber,Phishing,Low,320,Under Investigation
+CR00490,2021-08-12,2021,Guntur,Andhra Pradesh,Women,Harassment,Low,423,Chargesheet Filed
+CR00491,2023-07-14,2023,Thiruvananthapuram,Kerala,Property,Burglary,High,429,Closed
+CR00492,2021-05-30,2021,Ahmedabad,Gujarat,Property,Theft,Medium,410,Open
+CR00493,2025-05-30,2025,Thiruvananthapuram,Kerala,Traffic,Hit and Run,Medium,226,Chargesheet Filed
+CR00494,2021-01-16,2021,Shimla,Himachal Pradesh,Cyber,UPI Fraud,Low,250,Under Investigation
+CR00495,2026-05-22,2026,Faridabad,Haryana,Violent,Robbery,High,165,Under Investigation
+CR00496,2025-12-09,2025,Noida,Uttar Pradesh,Traffic,Hit and Run,Medium,295,Closed
+CR00497,2025-05-22,2025,Varanasi,Uttar Pradesh,Women,Stalking,Low,416,Chargesheet Filed
+CR00498,2022-04-11,2022,Jodhpur,Rajasthan,Cyber,Phishing,High,178,Open
+CR00499,2024-09-13,2024,Dhanbad,Jharkhand,Traffic,Drunk Driving,Low,10,Chargesheet Filed
+CR00500,2024-06-07,2024,Madurai,Tamil Nadu,Property,Theft,Low,336,Closed
+CR00501,2023-03-01,2023,Salem,Tamil Nadu,Property,Theft,Medium,244,Open
+CR00502,2026-12-26,2026,Vijayawada,Andhra Pradesh,Cyber,UPI Fraud,High,57,Open
+CR00503,2023-05-23,2023,Raipur,Chhattisgarh,Women,Harassment,Low,323,Chargesheet Filed
+CR00504,2020-02-16,2020,Noida,Uttar Pradesh,Traffic,Hit and Run,Low,379,Under Investigation
+CR00505,2023-11-26,2023,Srinagar,J&K,Property,Theft,High,143,Closed
+CR00506,2021-09-10,2021,Delhi,Delhi,Traffic,Hit and Run,Medium,441,Chargesheet Filed
+CR00507,2023-12-19,2023,Delhi,Delhi,Property,Burglary,Low,15,Closed
+CR00508,2024-08-04,2024,Indore,Madhya Pradesh,Cyber,Phishing,High,5,Open
+CR00509,2024-04-28,2024,Udaipur,Rajasthan,Property,Theft,Medium,36,Under Investigation
+CR00510,2025-04-07,2025,Mysuru,Karnataka,Property,Burglary,Medium,62,Chargesheet Filed
+CR00511,2020-07-02,2020,Nagpur,Maharashtra,Violent,Robbery,High,265,Open
+CR00512,2023-12-09,2023,Indore,Madhya Pradesh,Property,Burglary,Medium,187,Closed
+CR00513,2026-09-05,2026,Bhubaneswar,Odisha,Property,Burglary,High,310,Open
+CR00514,2020-12-20,2020,Bengaluru,Karnataka,Violent,Assault,Low,448,Open
+CR00515,2026-11-18,2026,Salem,Tamil Nadu,Cyber,UPI Fraud,Low,450,Closed
+CR00516,2024-07-09,2024,Noida,Uttar Pradesh,Women,Stalking,Low,32,Closed
+CR00517,2024-03-03,2024,Mumbai,Maharashtra,Property,Theft,High,263,Chargesheet Filed
+CR00518,2023-04-29,2023,Indore,Madhya Pradesh,Traffic,Drunk Driving,Low,288,Under Investigation
+CR00519,2021-08-26,2021,Amritsar,Punjab,Cyber,Phishing,Low,321,Chargesheet Filed
+CR00520,2024-07-12,2024,Guntur,Andhra Pradesh,Women,Stalking,High,264,Closed
+CR00521,2020-12-13,2020,Indore,Madhya Pradesh,Property,Burglary,Low,471,Open
+CR00522,2022-03-17,2022,Mumbai,Maharashtra,Property,Burglary,High,118,Under Investigation
+CR00523,2020-08-23,2020,Faridabad,Haryana,Violent,Robbery,Medium,168,Open
+CR00524,2020-09-04,2020,Noida,Uttar Pradesh,Property,Burglary,Low,280,Chargesheet Filed
+CR00525,2022-09-24,2022,Srinagar,J&K,Traffic,Drunk Driving,Low,474,Closed
+CR00526,2021-06-23,2021,Bhopal,Madhya Pradesh,Cyber,Phishing,Medium,159,Closed
+CR00527,2021-07-14,2021,Nagpur,Maharashtra,Cyber,Phishing,Low,375,Closed
+CR00528,2025-09-18,2025,Aurangabad,Maharashtra,Property,Theft,High,399,Under Investigation
+CR00529,2020-07-03,2020,Pune,Maharashtra,Traffic,Hit and Run,Medium,467,Chargesheet Filed
+CR00530,2025-10-13,2025,Guntur,Andhra Pradesh,Property,Burglary,Low,30,Closed
+CR00531,2021-11-13,2021,Guntur,Andhra Pradesh,Cyber,UPI Fraud,Medium,319,Under Investigation
+CR00532,2026-05-31,2026,Amritsar,Punjab,Violent,Robbery,Low,92,Open
+CR00533,2025-12-10,2025,Kochi,Kerala,Violent,Robbery,Medium,275,Open
+CR00534,2022-04-08,2022,Indore,Madhya Pradesh,Traffic,Hit and Run,Low,87,Closed
+CR00535,2025-03-30,2025,Bengaluru,Karnataka,Property,Burglary,Low,142,Open
+CR00536,2020-07-22,2020,Udaipur,Rajasthan,Violent,Assault,High,17,Chargesheet Filed
+CR00537,2025-01-13,2025,Shimla,Himachal Pradesh,Violent,Assault,High,113,Open
+CR00538,2026-08-03,2026,Chennai,Tamil Nadu,Women,Harassment,High,51,Under Investigation
+CR00539,2021-02-04,2021,Gurugram,Haryana,Traffic,Hit and Run,Low,439,Chargesheet Filed
+CR00540,2022-04-22,2022,Srinagar,J&K,Property,Theft,High,186,Closed
+CR00541,2025-04-17,2025,Udaipur,Rajasthan,Property,Burglary,High,382,Open
+CR00542,2025-08-04,2025,Ludhiana,Punjab,Property,Theft,Medium,208,Under Investigation
+CR00543,2023-03-09,2023,Nagpur,Maharashtra,Violent,Robbery,Medium,338,Under Investigation
+CR00544,2022-08-24,2022,Thiruvananthapuram,Kerala,Property,Theft,Medium,152,Chargesheet Filed
+CR00545,2024-03-08,2024,Bengaluru,Karnataka,Property,Burglary,Low,9,Under Investigation
+CR00546,2024-03-31,2024,Bhopal,Madhya Pradesh,Women,Harassment,Medium,467,Closed
+CR00547,2023-07-29,2023,Jaipur,Rajasthan,Cyber,Phishing,Medium,167,Open
+CR00548,2023-05-28,2023,Vijayawada,Andhra Pradesh,Violent,Robbery,Low,135,Chargesheet Filed
+CR00549,2025-11-10,2025,Vadodara,Gujarat,Cyber,UPI Fraud,Low,109,Open
+CR00550,2022-08-19,2022,Madurai,Tamil Nadu,Women,Stalking,High,230,Under Investigation
+CR00551,2020-05-23,2020,Nashik,Maharashtra,Violent,Assault,High,465,Under Investigation
+CR00552,2026-06-30,2026,Chennai,Tamil Nadu,Women,Harassment,Low,419,Under Investigation
+CR00553,2022-12-04,2022,Udaipur,Rajasthan,Cyber,Phishing,High,151,Open
+CR00554,2022-10-25,2022,Gurugram,Haryana,Women,Harassment,Medium,271,Under Investigation
+CR00555,2020-12-22,2020,Hyderabad,Telangana,Traffic,Drunk Driving,Medium,238,Chargesheet Filed
+CR00556,2024-04-06,2024,Vijayawada,Andhra Pradesh,Women,Harassment,Medium,290,Under Investigation
+CR00557,2025-08-20,2025,Jodhpur,Rajasthan,Violent,Robbery,Low,103,Open
+CR00558,2024-02-29,2024,Bengaluru,Karnataka,Property,Theft,High,386,Under Investigation
+CR00559,2023-03-20,2023,Panaji,Goa,Property,Theft,Medium,405,Chargesheet Filed
+CR00560,2023-11-05,2023,Tiruchirappalli,Tamil Nadu,Property,Theft,Low,483,Open
+CR00561,2021-04-21,2021,Jabalpur,Madhya Pradesh,Women,Stalking,High,396,Closed
+CR00562,2020-08-02,2020,Bengaluru,Karnataka,Property,Burglary,High,254,Chargesheet Filed
+CR00563,2021-09-20,2021,Jabalpur,Madhya Pradesh,Cyber,UPI Fraud,Medium,79,Under Investigation
+CR00564,2026-04-10,2026,Jodhpur,Rajasthan,Women,Harassment,High,165,Closed
+CR00565,2025-08-12,2025,Coimbatore,Tamil Nadu,Cyber,Phishing,High,100,Open
+CR00566,2024-02-25,2024,Tiruchirappalli,Tamil Nadu,Cyber,UPI Fraud,Medium,155,Open
+CR00567,2023-11-30,2023,Bhopal,Madhya Pradesh,Violent,Assault,Medium,370,Chargesheet Filed
+CR00568,2021-02-25,2021,Jodhpur,Rajasthan,Traffic,Drunk Driving,High,411,Open
+CR00569,2026-09-13,2026,Nashik,Maharashtra,Property,Burglary,High,325,Open
+CR00570,2020-10-24,2020,Agra,Uttar Pradesh,Violent,Assault,Medium,135,Closed
+CR00571,2023-07-19,2023,Lucknow,Uttar Pradesh,Women,Stalking,Medium,153,Under Investigation
+CR00572,2025-02-16,2025,Chennai,Tamil Nadu,Women,Harassment,Low,177,Closed
+CR00573,2025-12-21,2025,Surat,Gujarat,Violent,Assault,High,180,Chargesheet Filed
+CR00574,2024-07-29,2024,Mumbai,Maharashtra,Women,Harassment,Low,278,Open
+CR00575,2023-12-11,2023,Ludhiana,Punjab,Violent,Robbery,High,347,Open
+CR00576,2025-01-03,2025,Gurugram,Haryana,Traffic,Hit and Run,Low,402,Under Investigation
+CR00577,2026-11-21,2026,Shimla,Himachal Pradesh,Property,Burglary,Medium,106,Open
+CR00578,2026-12-06,2026,Coimbatore,Tamil Nadu,Violent,Assault,Medium,187,Chargesheet Filed
+CR00579,2024-03-29,2024,Indore,Madhya Pradesh,Violent,Robbery,Medium,234,Under Investigation
+CR00580,2026-10-17,2026,Hyderabad,Telangana,Cyber,UPI Fraud,Low,60,Under Investigation
+CR00581,2021-06-21,2021,Coimbatore,Tamil Nadu,Traffic,Drunk Driving,Medium,264,Chargesheet Filed
+CR00582,2020-11-12,2020,Madurai,Tamil Nadu,Cyber,UPI Fraud,Medium,28,Chargesheet Filed
+CR00583,2021-02-19,2021,Nashik,Maharashtra,Women,Harassment,Medium,31,Open
+CR00584,2022-05-06,2022,Ahmedabad,Gujarat,Cyber,UPI Fraud,Low,138,Under Investigation
+CR00585,2023-08-06,2023,Madurai,Tamil Nadu,Traffic,Hit and Run,Low,29,Open
+CR00586,2024-09-26,2024,Dhanbad,Jharkhand,Traffic,Drunk Driving,High,115,Chargesheet Filed
+CR00587,2025-09-17,2025,Siliguri,West Bengal,Property,Burglary,Medium,422,Closed
+CR00588,2026-12-30,2026,Noida,Uttar Pradesh,Violent,Robbery,High,421,Open
+CR00589,2025-09-26,2025,Mysuru,Karnataka,Women,Stalking,Low,70,Open
+CR00590,2023-04-13,2023,Ludhiana,Punjab,Traffic,Hit and Run,Medium,376,Open
+CR00591,2022-10-26,2022,Salem,Tamil Nadu,Property,Burglary,Medium,464,Chargesheet Filed
+CR00592,2022-11-23,2022,Siliguri,West Bengal,Violent,Assault,Low,100,Chargesheet Filed
+CR00593,2025-11-03,2025,Surat,Gujarat,Traffic,Drunk Driving,Medium,219,Closed
+CR00594,2024-11-20,2024,Jammu,J&K,Violent,Robbery,High,303,Closed
+CR00595,2023-05-24,2023,Guwahati,Assam,Cyber,UPI Fraud,High,443,Chargesheet Filed
+CR00596,2023-04-19,2023,Thiruvananthapuram,Kerala,Traffic,Drunk Driving,Low,206,Chargesheet Filed
+CR00597,2022-08-17,2022,Bhopal,Madhya Pradesh,Cyber,Phishing,Low,464,Chargesheet Filed
+CR00598,2024-01-26,2024,Raipur,Chhattisgarh,Cyber,Phishing,High,272,Closed
+CR00599,2023-09-12,2023,Ranchi,Jharkhand,Women,Harassment,Medium,161,Open
+CR00600,2023-08-19,2023,Bhubaneswar,Odisha,Women,Harassment,High,384,Open
+CR00601,2025-05-05,2025,Mysuru,Karnataka,Women,Stalking,Medium,63,Chargesheet Filed
+CR00602,2024-10-22,2024,Udaipur,Rajasthan,Violent,Assault,High,261,Under Investigation
+CR00603,2025-08-09,2025,Faridabad,Haryana,Cyber,UPI Fraud,Low,320,Chargesheet Filed
+CR00604,2021-05-03,2021,Indore,Madhya Pradesh,Women,Stalking,Medium,91,Open
+CR00605,2021-02-18,2021,Vijayawada,Andhra Pradesh,Cyber,Phishing,High,187,Open
+CR00606,2021-10-28,2021,Dehradun,Uttarakhand,Property,Burglary,High,390,Closed
+CR00607,2026-01-15,2026,Visakhapatnam,Andhra Pradesh,Women,Harassment,Low,370,Closed
+CR00608,2020-03-12,2020,Agra,Uttar Pradesh,Traffic,Hit and Run,Low,173,Under Investigation
+CR00609,2021-10-21,2021,Jodhpur,Rajasthan,Traffic,Drunk Driving,Low,377,Under Investigation
+CR00610,2024-12-02,2024,Vijayawada,Andhra Pradesh,Cyber,Phishing,High,157,Closed
+CR00611,2021-10-17,2021,Pune,Maharashtra,Traffic,Hit and Run,Low,442,Open
+CR00612,2020-03-01,2020,Dhanbad,Jharkhand,Traffic,Hit and Run,Medium,401,Closed
+CR00613,2020-08-27,2020,Bengaluru,Karnataka,Violent,Robbery,High,466,Open
+CR00614,2021-12-23,2021,Nashik,Maharashtra,Violent,Robbery,Low,102,Open
+CR00615,2022-09-11,2022,Raipur,Chhattisgarh,Cyber,UPI Fraud,Medium,201,Open
+CR00616,2026-09-03,2026,Coimbatore,Tamil Nadu,Property,Theft,Medium,45,Chargesheet Filed
+CR00617,2024-07-19,2024,Delhi,Delhi,Traffic,Hit and Run,Medium,255,Closed
+CR00618,2024-04-23,2024,Vadodara,Gujarat,Traffic,Hit and Run,High,461,Open
+CR00619,2021-04-20,2021,Bengaluru,Karnataka,Property,Theft,Medium,366,Chargesheet Filed
+CR00620,2021-02-06,2021,Kolkata,West Bengal,Violent,Robbery,High,300,Open
+CR00621,2025-06-18,2025,Thiruvananthapuram,Kerala,Violent,Assault,Low,184,Under Investigation
+CR00622,2023-09-25,2023,Pune,Maharashtra,Traffic,Hit and Run,High,108,Under Investigation
+CR00623,2025-06-29,2025,Visakhapatnam,Andhra Pradesh,Violent,Assault,High,163,Under Investigation
+CR00624,2026-09-29,2026,Hyderabad,Telangana,Cyber,Phishing,Low,91,Closed
+CR00625,2021-05-27,2021,Dhanbad,Jharkhand,Traffic,Hit and Run,Medium,110,Closed
+CR00626,2026-05-01,2026,Nagpur,Maharashtra,Violent,Assault,Medium,122,Chargesheet Filed
+CR00627,2022-02-25,2022,Lucknow,Uttar Pradesh,Cyber,UPI Fraud,High,229,Open
+CR00628,2022-11-23,2022,Shimla,Himachal Pradesh,Property,Burglary,Low,496,Open
+CR00629,2022-12-13,2022,Jammu,J&K,Traffic,Hit and Run,Low,61,Open
+CR00630,2021-10-20,2021,Ranchi,Jharkhand,Women,Stalking,Medium,247,Under Investigation
+CR00631,2020-09-10,2020,Mysuru,Karnataka,Violent,Assault,Medium,462,Open
+CR00632,2025-05-17,2025,Guntur,Andhra Pradesh,Violent,Robbery,Medium,146,Under Investigation
+CR00633,2024-07-02,2024,Coimbatore,Tamil Nadu,Traffic,Drunk Driving,High,118,Chargesheet Filed
+CR00634,2024-10-19,2024,Thiruvananthapuram,Kerala,Traffic,Hit and Run,Medium,236,Chargesheet Filed
+CR00635,2023-05-09,2023,Salem,Tamil Nadu,Cyber,Phishing,Medium,27,Closed
+CR00636,2020-08-13,2020,Kanpur,Uttar Pradesh,Traffic,Drunk Driving,Low,387,Under Investigation
+CR00637,2022-12-16,2022,Delhi,Delhi,Property,Theft,Low,109,Under Investigation
+CR00638,2022-06-23,2022,Coimbatore,Tamil Nadu,Property,Theft,High,419,Open
+CR00639,2024-02-01,2024,Shimla,Himachal Pradesh,Traffic,Hit and Run,Low,435,Chargesheet Filed
+CR00640,2022-09-09,2022,Visakhapatnam,Andhra Pradesh,Traffic,Hit and Run,High,257,Open
+CR00641,2020-11-16,2020,Salem,Tamil Nadu,Property,Theft,High,450,Chargesheet Filed
+CR00642,2021-12-27,2021,Ahmedabad,Gujarat,Traffic,Drunk Driving,Medium,82,Chargesheet Filed
+CR00643,2020-02-14,2020,Varanasi,Uttar Pradesh,Women,Stalking,Medium,377,Under Investigation
+CR00644,2025-02-11,2025,Bengaluru,Karnataka,Women,Harassment,Medium,333,Closed
+CR00645,2023-04-13,2023,Lucknow,Uttar Pradesh,Cyber,UPI Fraud,Low,59,Open
+CR00646,2026-10-11,2026,Nashik,Maharashtra,Cyber,Phishing,High,27,Closed
+CR00647,2022-04-02,2022,Raipur,Chhattisgarh,Traffic,Drunk Driving,Medium,192,Chargesheet Filed
+CR00648,2024-07-15,2024,Thiruvananthapuram,Kerala,Cyber,UPI Fraud,Medium,439,Open
+CR00649,2026-04-06,2026,Vijayawada,Andhra Pradesh,Property,Theft,High,185,Chargesheet Filed
+CR00650,2026-11-13,2026,Srinagar,J&K,Women,Stalking,High,265,Chargesheet Filed
+CR00651,2024-09-03,2024,Dhanbad,Jharkhand,Women,Harassment,High,78,Under Investigation
+CR00652,2026-10-10,2026,Mumbai,Maharashtra,Traffic,Drunk Driving,Low,464,Under Investigation
+CR00653,2020-04-18,2020,Chennai,Tamil Nadu,Cyber,Phishing,Medium,114,Closed
+CR00654,2022-01-30,2022,Mumbai,Maharashtra,Cyber,Phishing,Low,75,Chargesheet Filed
+CR00655,2024-10-15,2024,Indore,Madhya Pradesh,Women,Stalking,Medium,281,Chargesheet Filed
+CR00656,2024-06-11,2024,Madurai,Tamil Nadu,Cyber,Phishing,Medium,193,Open
+CR00657,2025-05-09,2025,Varanasi,Uttar Pradesh,Women,Stalking,Medium,336,Chargesheet Filed
+CR00658,2026-08-23,2026,Ahmedabad,Gujarat,Property,Theft,High,263,Open
+CR00659,2022-07-24,2022,Kolkata,West Bengal,Women,Stalking,High,393,Chargesheet Filed
+CR00660,2024-12-04,2024,Jodhpur,Rajasthan,Violent,Robbery,Low,493,Closed
+CR00661,2023-02-04,2023,Nashik,Maharashtra,Property,Burglary,High,210,Open
+CR00662,2024-02-03,2024,Amritsar,Punjab,Women,Harassment,Low,199,Open
+CR00663,2026-09-30,2026,Bengaluru,Karnataka,Cyber,UPI Fraud,Low,43,Chargesheet Filed
+CR00664,2026-04-13,2026,Mysuru,Karnataka,Cyber,Phishing,Medium,288,Closed
+CR00665,2020-10-11,2020,Guntur,Andhra Pradesh,Women,Harassment,Medium,16,Chargesheet Filed
+CR00666,2020-09-24,2020,Jaipur,Rajasthan,Women,Harassment,High,480,Under Investigation
+CR00667,2024-04-25,2024,Nagpur,Maharashtra,Violent,Robbery,High,455,Open
+CR00668,2024-09-21,2024,Srinagar,J&K,Women,Stalking,Medium,313,Under Investigation
+CR00669,2026-07-10,2026,Lucknow,Uttar Pradesh,Traffic,Hit and Run,High,279,Closed
+CR00670,2020-12-24,2020,Tiruchirappalli,Tamil Nadu,Women,Harassment,Medium,471,Under Investigation
+CR00671,2022-07-04,2022,Coimbatore,Tamil Nadu,Cyber,UPI Fraud,High,340,Open
+CR00672,2022-02-27,2022,Bhopal,Madhya Pradesh,Property,Burglary,Medium,269,Under Investigation
+CR00673,2021-04-06,2021,Aurangabad,Maharashtra,Traffic,Drunk Driving,Low,244,Open
+CR00674,2024-04-16,2024,Jabalpur,Madhya Pradesh,Traffic,Hit and Run,High,286,Closed
+CR00675,2020-10-08,2020,Panaji,Goa,Property,Theft,High,453,Under Investigation
+CR00676,2021-02-08,2021,Dhanbad,Jharkhand,Cyber,UPI Fraud,Medium,461,Open
+CR00677,2026-08-24,2026,Dehradun,Uttarakhand,Violent,Assault,Low,258,Open
+CR00678,2025-07-02,2025,Lucknow,Uttar Pradesh,Property,Theft,Medium,39,Chargesheet Filed
+CR00679,2026-04-12,2026,Guwahati,Assam,Women,Harassment,Medium,300,Chargesheet Filed
+CR00680,2020-03-12,2020,Bengaluru,Karnataka,Traffic,Hit and Run,High,403,Chargesheet Filed
+CR00681,2024-02-21,2024,Delhi,Delhi,Property,Theft,Low,409,Closed
+CR00682,2022-04-16,2022,Udaipur,Rajasthan,Property,Burglary,Low,383,Chargesheet Filed
+CR00683,2021-10-13,2021,Vijayawada,Andhra Pradesh,Traffic,Drunk Driving,High,452,Under Investigation
+CR00684,2025-12-03,2025,Varanasi,Uttar Pradesh,Women,Stalking,Medium,61,Closed
+CR00685,2021-11-12,2021,Srinagar,J&K,Traffic,Hit and Run,High,95,Closed
+CR00686,2020-06-19,2020,Vijayawada,Andhra Pradesh,Cyber,Phishing,Medium,282,Closed
+CR00687,2024-02-02,2024,Nagpur,Maharashtra,Cyber,UPI Fraud,High,243,Chargesheet Filed
+CR00688,2022-11-04,2022,Jammu,J&K,Traffic,Drunk Driving,High,39,Under Investigation
+CR00689,2025-11-20,2025,Noida,Uttar Pradesh,Property,Theft,High,433,Under Investigation
+CR00690,2024-06-22,2024,Kochi,Kerala,Property,Burglary,High,197,Under Investigation
+CR00691,2022-12-31,2022,Bengaluru,Karnataka,Violent,Robbery,High,205,Chargesheet Filed
+CR00692,2023-04-01,2023,Nashik,Maharashtra,Traffic,Hit and Run,Low,46,Under Investigation
+CR00693,2021-03-31,2021,Agra,Uttar Pradesh,Traffic,Hit and Run,High,326,Closed
+CR00694,2020-11-01,2020,Lucknow,Uttar Pradesh,Property,Theft,Medium,204,Under Investigation
+CR00695,2026-01-01,2026,Visakhapatnam,Andhra Pradesh,Violent,Robbery,Low,215,Under Investigation
+CR00696,2021-03-06,2021,Siliguri,West Bengal,Women,Harassment,High,236,Open
+CR00697,2022-11-02,2022,Kanpur,Uttar Pradesh,Women,Stalking,Low,35,Open
+CR00698,2022-11-04,2022,Raipur,Chhattisgarh,Traffic,Hit and Run,Medium,148,Open
+CR00699,2026-10-03,2026,Srinagar,J&K,Cyber,UPI Fraud,High,26,Chargesheet Filed
+CR00700,2022-06-28,2022,Jaipur,Rajasthan,Traffic,Drunk Driving,High,22,Chargesheet Filed
